@@ -1,1 +1,0 @@
-import{_ as e,o as t,a as c}from"./index-t6s3gKzR.js";const n={},o={class:"message-content",ref:"content"};function s(a,r){return t(),c("div",o,null,512)}const d=e(n,[["render",s],["__scopeId","data-v-7e8a7b7e"]]);export{d as default};
