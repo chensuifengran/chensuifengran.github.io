@@ -1,0 +1,1 @@
+import{_ as o,o as s,g as t,w as _,n as c,E as a}from"./index-BYx3PUQu.js";const r={};function i(l,n){const e=a;return s(),t(e,{size:"large"},{default:_(()=>n[0]||(n[0]=[c("span",{"i-mdi-code-tags":""},null,-1)])),_:1})}const d=o(r,[["render",i]]);export{d as _};
