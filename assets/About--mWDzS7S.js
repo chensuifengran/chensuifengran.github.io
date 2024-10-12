@@ -1,1 +1,0 @@
-import{d as o,o as t,a,b as s,_ as c}from"./index-CqHkYROl.js";import{E as _}from"./el-empty-f7o6tlaN.js";const n={class:"about-main"},p=o({__name:"About",setup(r){return(m,d)=>{const e=_;return t(),a("div",n,[s(e,{description:"开发中..."})])}}}),u=c(p,[["__scopeId","data-v-1ce60d7a"]]);export{u as default};
