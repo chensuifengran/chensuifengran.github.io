@@ -1,1 +1,0 @@
-import{_ as e,o as c,a as t}from"./index-fER-Z0jW.js";const o={},s={class:"message-content"};function n(a,_){return c(),t("div",s)}const d=e(o,[["render",n],["__scopeId","data-v-6d1f1562"]]);export{d as default};

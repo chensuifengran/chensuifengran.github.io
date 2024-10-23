@@ -1,1 +1,0 @@
-import{_ as o,o as s,g as t,w as _,n as c,v as a}from"./index-fER-Z0jW.js";const r={};function i(l,n){const e=a;return s(),t(e,{size:"large"},{default:_(()=>n[0]||(n[0]=[c("span",{"i-mdi-code-tags":""},null,-1)])),_:1})}const d=o(r,[["render",i]]);export{d as _};
