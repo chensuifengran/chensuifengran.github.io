@@ -1,0 +1,1 @@
+import{_ as e}from"./index-DhEYsvJM.js";import{i as o,o as t}from"./.pnpm-B-riUXVB.js";const c={},s={class:"message-content"};function n(r,_){return t(),o("div",s)}const i=e(c,[["render",n],["__scopeId","data-v-6d1f1562"]]);export{i as default};

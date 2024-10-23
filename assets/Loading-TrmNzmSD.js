@@ -1,0 +1,1 @@
+import{_ as o}from"./index-DhEYsvJM.js";import{o as e,i as c}from"./.pnpm-B-riUXVB.js";const r={},s={class:"loader"};function t(a,_){return e(),c("div",s)}const i=o(r,[["render",t],["__scopeId","data-v-b3a60e7c"]]);export{i as L};
