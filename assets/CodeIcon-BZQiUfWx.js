@@ -1,1 +1,0 @@
-import{_ as o,o as s,e as t,w as _,n as c,v as a}from"./index-BG1F5OCk.js";const r={};function i(l,e){const n=a;return s(),t(n,{size:"large"},{default:_(()=>e[0]||(e[0]=[c("span",{"i-mdi-code-tags":""},null,-1)])),_:1})}const d=o(r,[["render",i]]);export{d as _};

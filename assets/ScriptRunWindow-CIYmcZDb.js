@@ -1,1 +1,0 @@
-import{_ as e,a as c,o as t}from"./index-BG1F5OCk.js";const o={},s={class:"message-content"};function n(a,_){return t(),c("div",s)}const d=e(o,[["render",n],["__scopeId","data-v-6d1f1562"]]);export{d as default};
