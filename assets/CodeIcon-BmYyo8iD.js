@@ -1,1 +1,0 @@
-import{o as n,c as s,w as t,a as c,E as _}from"./.pnpm-B-riUXVB.js";import{_ as a}from"./index-DhEYsvJM.js";const r={};function i(l,o){const e=_;return n(),s(e,{size:"large"},{default:t(()=>o[0]||(o[0]=[c("span",{"i-mdi-code-tags":""},null,-1)])),_:1})}const f=a(r,[["render",i]]);export{f as _};
