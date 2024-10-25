@@ -1,0 +1,1 @@
+import{_ as e}from"./index-BNIoerFH.js";import{i as o,o as t}from"./.pnpm-D_Vtnb2u.js";const c={},s={class:"message-content"};function n(r,_){return t(),o("div",s)}const i=e(c,[["render",n],["__scopeId","data-v-6d1f1562"]]);export{i as default};
