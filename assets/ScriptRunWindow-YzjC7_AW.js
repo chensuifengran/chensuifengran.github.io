@@ -1,1 +1,0 @@
-import{_ as e}from"./index-CfnGVuTc.js";import{i as o,o as t}from"./.pnpm-Com_8wwn.js";const c={},s={class:"message-content"};function n(r,_){return t(),o("div",s)}const i=e(c,[["render",n],["__scopeId","data-v-6d1f1562"]]);export{i as default};
